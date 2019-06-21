@@ -1,0 +1,16 @@
+diff a/index2.html b/index2.html	(rejected hunks)
+@@ -0,0 +1,13 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <meta http-equiv="X-UA-Compatible" content="ie=edge">
++    <title>Document</title>
++</head>
++<body>
++    <h1>分支1</h1>
++    <h1>分支2</h1>
++</body>
++</html>
+\ No newline at end of file
